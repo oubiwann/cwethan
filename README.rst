@@ -29,10 +29,13 @@ It hasn't been decided which NLP library we'll be using. Ideally the one most
 suited for *generating* sentences versus *parsing* them.
 
 LinkGrammar Python Bindings
+
 * https://bitbucket.org/metametrics/pylinkgrammar
 
 NLTK
+
 * http://nltk.org/
+
 * https://sites.google.com/site/naturallanguagetoolkit/book
 
 Kicking Off the Project
