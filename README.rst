@@ -1,4 +1,19 @@
-cwethan
-=======
+cweþan
+======
 
-code that explores the generation of stories
+This is a projects that explores the generation of stories using themed
+vocabularies and natural language processing tools.
+
+Project Name
+------------
+
+The word *cweþan* (pronounced "quethan") is the Old English verb "to say" or
+"to tell." As one might have guessed, a lexical anscestor of this word
+partially in use today is the word "quoth." The related Old English noun
+*cwyðe* means "the expression of a thought" or "a sentence." Another linguistic
+relative is *gegncwide* which means "an answer, retort, or conversation."
+
+As you can see, lots of meaning to extract and approprirately apply to a
+project whose focus in on words and their arbitrary combination to create
+rudimentary but cohesive thoughts with an aim towards eventual
+story-generation.
