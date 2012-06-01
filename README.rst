@@ -52,3 +52,10 @@ Here are some thoughts to get the project started:
 
 These questions shall be explored more fully as we begin writing code that
 attempts to generate interesting thoughts.
+
+Usage
+-----
+
+::
+$ python
+>>> import cwethan
