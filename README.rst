@@ -38,6 +38,19 @@ NLTK
 
 * https://sites.google.com/site/naturallanguagetoolkit/book
 
+Intended Audience
+-----------------
+
+Thought who would be interested in interactive fiction or text-based games are
+potential users of this library. Related projects:
+
+* EmotionalModeling
+
+* Myriad Worlds
+
+* DreamMUD
+
+
 Kicking Off the Project
 -----------------------
 
