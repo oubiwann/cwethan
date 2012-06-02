@@ -24,26 +24,26 @@ Quest-Giver Dialog
 
 Experiment with dialog and common parts of speech (POS) patterns:
 
- * identify corpora that may be useful for this
+* identify corpora that may be useful for this
 
- * generate a small corpora for fantasy/adventure dialog
+* generate a small corpora for fantasy/adventure dialog
 
- * identify well-written dialog of this genre and examine POS patterns
+* identify well-written dialog of this genre and examine POS patterns
 
- * with a view towards a more specialized use, examine the dialogue of "quest
+* with a view towards a more specialized use, examine the dialogue of "quest
    givers"
 
-   - maybe take translations of Lau Tzu? Socrates? Zen koans?
+  - maybe take translations of Lau Tzu? Socrates? Zen koans?
 
- * look into what NLTK offers for storing only POS
+* look into what NLTK offers for storing only POS
 
-   - not actual words themselves
+  - not actual words themselves
 
-   - use this to generate unique sentences/dialogues
+  - use this to generate unique sentences/dialogues
 
- * classify imperative statements for level of urgency
+* classify imperative statements for level of urgency
 
- * start defining lists of "interesting" words
+* start defining lists of "interesting" words
 
 
 Faction Identification
