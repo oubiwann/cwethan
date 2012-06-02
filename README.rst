@@ -87,4 +87,4 @@ Usage
 .. Links
    -----
 
-.. _TODO: oubiwann/cwethan/blob/master/TODO.rst
+.. _TODO: cwethan/blob/master/TODO.rst
