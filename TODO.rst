@@ -53,10 +53,17 @@ Part of the quest-giving/-accepting process is deciding whether a particular
 quest meets one's over-all goals. Often goals are filtered as appropriate by
 determining faction association. Not only does one not want to do a quest
 for an enemy faction, one wants to protect beneficial faction relationships and
-not follow quests that could jeopardize those. Similarly, if playing
-in-character, one doesn't want to be inconsistent (for instance, saving an
-innocent village in one quest, and then destroying it or one like it in
-another). There are levels of subtlety here, and deception plays a strong part
-(e.g, enemies trying to get a hero to violate relationships, agreements, vows,
-etc.). All of this needs to be examined (psycho-)linguistically so that a game
-player might have good clues as to the ultimate orientation of a given faction.
+not follow quests that could jeopardize those.
+
+Similarly, if playing in-character, one doesn't want to be inconsistent (for
+instance, saving an innocent village in one quest, and then destroying it or
+one like it in another).
+
+There are levels of subtlety here, and deception plays a strong part (e.g,
+enemies trying to get a hero to violate relationships, agreements, vows, etc.)
+in the challenges that face a player... as well as the surprises that can
+unfold in a well-written story.
+
+All of these (ane more) need to be examined (psycho)linguistically so that a
+game player might have good clues as to the ultimate orientation of a given
+faction.
