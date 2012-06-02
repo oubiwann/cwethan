@@ -45,6 +45,8 @@ Experiment with dialog and common parts of speech (POS) patterns:
 
 * start defining lists of "interesting" words
 
+  - use this to generate unique sentences/dialogues
+
 
 Faction Identification
 ----------------------
