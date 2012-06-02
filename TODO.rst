@@ -69,3 +69,18 @@ unfold in a well-written story.
 All of these (ane more) need to be examined (psycho)linguistically so that a
 game player might have good clues as to the ultimate orientation of a given
 faction.
+
+
+Word of Mouth
+-------------
+
+Repeating, paraphrasing, and semantically degnerating text (e.g., the
+"telephone game") would be very nice to have. This could be used to provide a
+support to main conversations (by primary NPCs) in a game, in that minor NPCs
+or "extras" could simply start repeating something they'd "heard" from a main
+NPC either shortly before a player talks to the main NCP or shortly afterwards.
+
+The path that phrases would travel would be via associations and factions.
+There would be a stronger sementic degeneration along paths that crossed from a
+friendly faction to a non-friendly one. (Various sociolinguistic analyses that
+have been conducted on Twitter might be great sources of inspriation here...)
