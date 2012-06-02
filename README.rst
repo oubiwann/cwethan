@@ -18,6 +18,7 @@ a project whose focus in on words and their arbitrary combination to create
 rudimentary but cohesive thoughts with an aim towards eventual
 story-generation.
 
+
 Dependencies
 ------------
 
@@ -25,18 +26,14 @@ This project makes use of the following tools:
 
 * Python
 
-It hasn't been decided which NLP library we'll be using. Ideally the one most
-suited for *generating* sentences versus *parsing* them.
+* NLTK
 
-LinkGrammar Python Bindings
+  * http://nltk.org/
 
-* https://bitbucket.org/metametrics/pylinkgrammar
+  * https://sites.google.com/site/naturallanguagetoolkit/book
 
-NLTK
+* numpy (NLTK has a dependency on numpy that doesn't always get installed
 
-* http://nltk.org/
-
-* https://sites.google.com/site/naturallanguagetoolkit/book
 
 Intended Audience
 -----------------
