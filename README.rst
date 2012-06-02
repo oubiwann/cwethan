@@ -50,11 +50,11 @@ Those who might be interested in this code base:
 
 Related projects:
 
-* EmotionalModeling
+* `innoþ`_  - emotional/behavioral/cognitive modeling
 
-* Myriad Worlds
+* `Myriad Worlds`_ - an experiment in textual world generation
 
-* DreamMUD
+* `DreamMUD`_ - a pure-Python Multi-User Dimention (game) framework
 
 
 Kicking Off the Project
@@ -87,4 +87,7 @@ Usage
 .. Links
    -----
 
+.. _innoþ: innoth
+.. _Myriad Worlds: myriad-worlds
+.. _DreamMUD: /dreamhost/dreammud
 .. _TODO: cwethan/blob/master/TODO.rst
