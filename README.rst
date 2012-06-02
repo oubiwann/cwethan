@@ -74,6 +74,9 @@ attempts to generate interesting thoughts.
 
 For a detailed list of what's currently being explored, see the TODO_.
 
+Computational lingist `Noah Smith`_ has some great papers listed on his page
+that have generated many new ideas for this project.
+
 
 Usage
 -----
@@ -82,6 +85,7 @@ Usage
 
  $ python
  >>> import cwethan
+ >>> [more soon]
 
 
 .. Links
@@ -91,3 +95,4 @@ Usage
 .. _Myriad Worlds: myriad-worlds
 .. _DreamMUD: /dreamhost/dreammud
 .. _TODO: cwethan/blob/master/TODO.rst
+.. _Noah Smith: http://www.cs.cmu.edu/~nasmith/
