@@ -40,13 +40,13 @@ Intended Audience
 
 Those who might be interested in this code base:
 
- * authors of interactive fiction
+* authors of interactive fiction
 
- * creators of text-based games
+* creators of text-based games
 
- * students of social research
+* students of social research
 
- * students of psycholinguistics
+* students of psycholinguistics
 
 Related projects:
 
