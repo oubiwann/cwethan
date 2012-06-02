@@ -70,5 +70,6 @@ Usage
 -----
 
 ::
-$ python
->>> import cwethan
+
+ $ python
+ >>> import cwethan
