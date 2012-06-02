@@ -31,7 +31,7 @@ Experiment with dialog and common parts of speech (POS) patterns:
 * identify well-written dialog of this genre and examine POS patterns
 
 * with a view towards a more specialized use, examine the dialogue of "quest
-   givers"
+  givers"
 
   - maybe take translations of Lau Tzu? Socrates? Zen koans?
 
