@@ -32,14 +32,23 @@ This project makes use of the following tools:
 
   * https://sites.google.com/site/naturallanguagetoolkit/book
 
-* numpy (NLTK has a dependency on numpy that doesn't always get installed
+* numpy (NLTK has a dependency on numpy that doesn't always get installed)
 
 
 Intended Audience
 -----------------
 
-Thought who would be interested in interactive fiction or text-based games are
-potential users of this library. Related projects:
+Those who might be interested in this code base:
+
+ * authors of interactive fiction
+
+ * creators of text-based games
+
+ * students of social research
+
+ * students of psycholinguistics
+
+Related projects:
 
 * EmotionalModeling
 
@@ -63,6 +72,9 @@ Here are some thoughts to get the project started:
 These questions shall be explored more fully as we begin writing code that
 attempts to generate interesting thoughts.
 
+For a detailed list of what's currently being explored, see the TODO_.
+
+
 Usage
 -----
 
@@ -70,3 +82,9 @@ Usage
 
  $ python
  >>> import cwethan
+
+
+.. Links
+   -----
+
+.. _TODO: oubiwann/cwethan/blob/master/TODO.rst
