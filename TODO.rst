@@ -32,6 +32,13 @@ Experiment with dialog and common parts of speech (POS) patterns:
     categories = ["science_fiction", "mystery", "fiction", "adventure"]
     brown.tagged_sents(categories=categories)
 
+  - produce examples of usage for dialog parsing with NLTK
+
+  - examine the usefulness of induced grammars
+
+  - given tokenized and tagged sentences, see what's possible as far as
+    inferring a grammar
+
 * generate a small corpora for fantasy/adventure dialog
 
 * identify well-written dialog of this genre and examine POS patterns
