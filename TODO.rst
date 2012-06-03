@@ -26,6 +26,12 @@ Experiment with dialog and common parts of speech (POS) patterns:
 
 * identify corpora that may be useful for this
 
+  - in the brown corpus, the following would be good: adventure, fiction,
+    mystery, science_fiction::
+
+    categories = ["science_fiction", "mystery", "fiction", "adventure"]
+    brown.tagged_sents(categories=categories)
+
 * generate a small corpora for fantasy/adventure dialog
 
 * identify well-written dialog of this genre and examine POS patterns
@@ -59,7 +65,8 @@ not follow quests that could jeopardize those.
 
 Similarly, if playing in-character, one doesn't want to be inconsistent (for
 instance, saving an innocent village in one quest, and then destroying it or
-one like it in another).
+one like it in another). Being providing with clues as to a quest-giver's
+faction association can give the player some confidence in being consistent.
 
 There are levels of subtlety here, and deception plays a strong part (e.g,
 enemies trying to get a hero to violate relationships, agreements, vows, etc.)
