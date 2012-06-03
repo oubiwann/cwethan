@@ -1,4 +1,6 @@
+import cPickle as pickle
 from pprint import pprint
+import os
 
 from nltk import tag, tokenize
 from nltk.corpus import brown
@@ -43,7 +45,7 @@ brill_templates = [
     ]
 
 
-def tagFactory(train_sents, word_patterns, bill_templates):
+def _tagFactory(train_sents, word_patterns, bill_templates):
     d = tag.DefaultTagger('NN')
     ud = tag.UnigramTagger(train_sents, backoff=d)
     bud = tag.BigramTagger(train_sents, backoff=ud)
@@ -55,8 +57,23 @@ def tagFactory(train_sents, word_patterns, bill_templates):
     return bratbud
 
 
-#categories = ["science_fiction", "mystery", "fiction", "adventure"]
-categories = ["fiction"]
+def tagFactory(train_sents, word_patterns, bill_templates, force_new=False):
+    data_dir = os.path.expanduser("~/.cwethan")
+    if not os.path.exists(data_dir):
+        os.makedirs(data_dir)
+    tagger_cache_file = os.path.join(data_dir, "tagger.pkl")
+    if not force_new and os.path.isfile(tagger_cache_file):
+        fh = open(tagger_cache_file, "rb")
+        tagger = pickle.load(fh)
+    else:
+        tagger = _tagFactory(train_sents, word_patterns, brill_templates)
+        fh = open(tagger_cache_file, "wb")
+        pickle.dump(tagger, fh)
+    fh.close()
+    return tagger
+
+
+categories = ["science_fiction", "mystery", "fiction", "adventure"]
 train_sents = brown.tagged_sents(categories=categories)
 tagger = tagFactory(train_sents, word_patterns, brill_templates)
 sent = tokenize.word_tokenize(d)
